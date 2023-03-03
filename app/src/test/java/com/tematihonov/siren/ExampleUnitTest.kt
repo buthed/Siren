@@ -1,4 +1,4 @@
-package com.example.siren
+package com.tematihonov.siren
 
 import org.junit.Test
 

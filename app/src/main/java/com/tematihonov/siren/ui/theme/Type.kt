@@ -1,4 +1,4 @@
-package com.example.siren.ui.theme
+package com.tematihonov.siren.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

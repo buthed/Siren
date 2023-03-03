@@ -1,4 +1,4 @@
-package com.example.siren
+package com.tematihonov.siren
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.siren.ui.theme.SirenTheme
+import com.tematihonov.siren.ui.theme.SirenTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
